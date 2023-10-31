@@ -1,6 +1,6 @@
 (function() {
   const chatbotIframe = document.createElement('iframe');
-  chatbotIframe.src = 'https://irfan-ahmad.com/chatbot/index.html';
+  chatbotIframe.src = 'https://path-to-chatbot-template(html)-file';
   chatbotIframe.style.width = '100%';
   chatbotIframe.style.height = '100%';
   chatbotIframe.style.border = 'none';
